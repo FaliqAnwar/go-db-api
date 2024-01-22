@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# local config
+config/config.local.yaml
+
+# visual studio code directory
+.vscode

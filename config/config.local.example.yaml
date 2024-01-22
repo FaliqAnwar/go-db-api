@@ -1,0 +1,11 @@
+app:
+  env: dev
+  name: go-db-api
+  host: to_be_filled
+  port: to_be_filled
+db:
+  host: to_be_filled
+  port: to_be_filled
+  name: to_be_filled
+  username: to_be_filled
+  password: to_be_filled
